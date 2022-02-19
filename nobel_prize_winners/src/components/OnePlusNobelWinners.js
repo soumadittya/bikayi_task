@@ -48,6 +48,8 @@ const OnePlusNobelWinners = () => {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <div class="alert alert-primary" role="alert">
+            <b>MARIE CURIE (1867 - 1934)</b>
+            <br></br>
               The first person in history to accomplish the feat of twice
               receiving a Nobel Prize was the Polish scientist Marie Skłodowska
               Curie (7th November, 1867- 4th July, 1934), first awarded the
@@ -63,6 +65,8 @@ const OnePlusNobelWinners = () => {
           </div>
           <div className="carousel-item">
             <div class="alert alert-primary" role="alert">
+            <b>LINUS PAULING (1901 - 1994)</b>
+            <br></br>
               The only person twice decorated with a Nobel Prize not shared with
               anyone else was Linus Pauling (28th February, 1901 – 19th August,
               1994). The first award, the 1954 Nobel Prize in Chemistry,
@@ -81,6 +85,8 @@ const OnePlusNobelWinners = () => {
           </div>
           <div className="carousel-item">
             <div class="alert alert-primary" role="alert">
+            <b>JOHN BARDEEN (1908 - 1991)</b>
+            <br></br>
               The fact that today we can listen to the latest music hits on the
               radio, watch television, talk by mobile phone or comfortably surf
               the Internet using computers and tablets owes much to John Bardeen
@@ -97,6 +103,8 @@ const OnePlusNobelWinners = () => {
           </div>
           <div className="carousel-item">
             <div class="alert alert-primary" role="alert">
+            <b>FREDERICK SANGER (1918 - 2013)</b>
+            <br></br>
               The fourth person, and so far the last, to join the illustrious
               club of the double Nobel Prize was Frederick Sanger (13th August,
               1918 – 19th November, 2013), an enthusiast of biochemistry who
