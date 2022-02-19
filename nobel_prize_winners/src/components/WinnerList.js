@@ -16,7 +16,9 @@ const WinnerList = (props) => {
         </thead>
 
         <tbody>
-            { props.prizeDetails.prizes.map((prizeDetail) => (
+            { props.prizeDetails.prizes.map((prizeDetail) => 
+                // {if (prizeDetail.year === '1999')
+                (
           <tr>
             <th scope="row">
                 {prizeDetail.year}
